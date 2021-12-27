@@ -22,4 +22,6 @@
   return arr;
 }
 `
-
+## Education
++ Belarusian State University - Law Faculty
++ IT - Academy - HTML, CSS, JS
